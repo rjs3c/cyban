@@ -7,3 +7,6 @@
 <h1 align="center">
 CyBan
 </h1>
+<p align="center">
+A Collaborative Tool for Cybersecurity
+</p>
