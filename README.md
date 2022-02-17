@@ -1,9 +1,5 @@
-<h1 align="center">
-CyBan
-</h1>
-<p align="center">
+# Cyban
 A Collaborative Tool for Cybersecurity
-</p>
-<div id="badges" align="center">
+<div id="badges" align="left">
   <img src="https://img.shields.io/badge/version-v1.1-blue" alt="Version Badge"/>
 </div>
