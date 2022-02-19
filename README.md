@@ -12,5 +12,10 @@
 
 # Overview
 Description.
+
+**Requirements:**
+* Docker
+* Docker Compose
+
 # Installation
 # Usage
