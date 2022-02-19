@@ -1,5 +1,5 @@
 # Cyban
-> A Collaborative Tool for Cybersecurity
+> A Collaborative Tool for Cybersecurity.
 <div id="badges" align="left">
   <img src="https://img.shields.io/badge/version-v1.1-blue" alt="Version Badge"/>
 </div>
@@ -12,10 +12,5 @@
 
 ## Overview
 Description.
-
-**Requirements:**
-* Docker
-* Docker Compose
-
 ## Installation
 ## Usage
