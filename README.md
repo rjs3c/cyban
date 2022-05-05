@@ -22,6 +22,7 @@ CyBan is an open-source utility for sharing information, managing workflows and 
 * **Performance Overview**. Keep Track of your Progress.
 
 ## Installation
+[![asciicast](https://asciinema.org/a/VPJGKtsPbQ2TKBuFnO6xfgpqZ.svg)](https://asciinema.org/a/VPJGKtsPbQ2TKBuFnO6xfgpqZ)
 Initialise CyBan using the following **docker-compose** command:
 ```
 docker-compose up
