@@ -26,3 +26,9 @@ CyBan is an open-source utility for sharing information, managing workflows and 
 ## Requirements
 
 ## Gallery
+<img src="https://github.com/rjs3c/cyban/blob/main/screenshots/1.png">
+<img src="https://github.com/rjs3c/cyban/blob/main/screenshots/2.png">
+<img src="https://github.com/rjs3c/cyban/blob/main/screenshots/3.png">
+<img src="https://github.com/rjs3c/cyban/blob/main/screenshots/4.png">
+<img src="https://github.com/rjs3c/cyban/blob/main/screenshots/5.png">
+<img src="https://github.com/rjs3c/cyban/blob/main/screenshots/6.png">
