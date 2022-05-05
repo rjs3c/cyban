@@ -14,12 +14,12 @@
 ## Introduction
 CyBan is an open-source utility for sharing information, managing workflows and collaborating.
 
-* Kanban System
-* Custom Cybersecurity-specific Information, Categories and Metrics
-* RSS Feed for Keeping Updated on your Favourite News Sources
-* Ticketing System to Create a Feedback-loop Between Registered and Unregistered Users
-* Exportation of an Executive Summary, for those in Management Positions
-* Performance Overview, for Managing your Progress
+* **Kanban System**. Keep Track of Complex Workloads and Information Efficiently using a Visual, Columnar Board
+* **Custom Cybersecurity-specific Information, Categories and Metrics**. Catered for Cybersecurity Professionals.
+* **RSS Feed**. For Keeping Updated on your Favourite News Sources
+* **Ticketing System**. Create a Feedback-loop Between Registered and Unregistered Users
+* **Executive Summary**. Generate a Report on-demand for those in Management.
+* **Performance Overview**. Keep Track of your Progress.
 
 ## Installation
 
