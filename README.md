@@ -12,8 +12,17 @@
 3. [Requirements](#requirements)
 
 ## Introduction
-CyBan is an open-source utility to share information, manage workflow and collaborate.
+CyBan is an open-source utility for sharing information, managing workflows and collaborating.
+
+* Kanban System
+* Custom Cybersecurity-specific Information, Categories and Metrics
+* RSS Feed for Keeping Updated on your Favourite News Sources
+* Ticketing System to Create a Feedback-loop Between Registered and Unregistered Users
+* Exportation of an Executive Summary, for those in Management Positions
+* Performance Overview, for Managing your Progress
 
 ## Installation
 
 ## Requirements
+
+## Gallery
