@@ -34,6 +34,10 @@ docker-compose down
 ```
 
 ## Requirements
+* node >= v16.10.0
+* NPM >= 7.24.0
+* Docker Engine >= 20.10
+* Docker Compose >= v1.29.2
 
 ## Gallery
 <img src="https://github.com/rjs3c/cyban/blob/main/screenshots/1.png">
