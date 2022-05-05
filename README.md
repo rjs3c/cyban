@@ -10,6 +10,7 @@
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Requirements](#requirements)
+4. [Gallery](#gallery)
 
 ## Introduction
 CyBan is an open-source utility for sharing information, managing workflows and collaborating.
