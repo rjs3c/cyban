@@ -1,0 +1,10 @@
+node_modules/
+Dockerfile
+docker-compose*
+.dockerignore
+.git/
+.gitignore
+__tests__/
+nginx-cfg/
+LICENSE
+README.md
