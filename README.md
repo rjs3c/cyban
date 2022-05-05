@@ -1,6 +1,7 @@
 <h1 align="center">CyBan - A Collaborative Tool for Cybersecurity</h1>
 <div id="badges" align="left">
   <img src="https://img.shields.io/badge/version-v1.1-blue" alt="Version Badge"/>
+  <img src="https://img.shields.io/github/license/rjs3c/cyban" alt="License Badge"/>
 </div>
 <br>
 
