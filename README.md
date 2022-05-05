@@ -26,6 +26,11 @@ Initialise CyBan using the following **docker-compose** command:
 ```
 docker-compose up
 ```
+To Stop CyBan:
+```
+^C
+docker-compose down
+```
 
 ## Requirements
 
