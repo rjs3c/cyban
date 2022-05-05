@@ -1,3 +1,4 @@
+<h1 align="center">CyBan - A Collaborative Tool for Cybersecurity</h1>
 # CyBan
 > A Collaborative Tool for Cybersecurity.
 <div id="badges" align="left">
