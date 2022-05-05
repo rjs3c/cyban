@@ -12,7 +12,7 @@
 3. [Requirements](#requirements)
 
 ## Introduction
-CyBan is an open-source utility 
+CyBan is an open-source utility to share information, manage workflow and collaborate.
 
 ## Installation
 
